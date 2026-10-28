@@ -1,0 +1,50 @@
+[
+  {
+    "index": 1,
+    "scene": "intro",
+    "character": "gordafarid",
+    "text": "سلام خانمی! من گردآفریدم.",
+    "file": "001_scene_intro_gordafarid.mp3",
+    "status": "success"
+  },
+  {
+    "index": 2,
+    "scene": "intro",
+    "character": "hirbod",
+    "text": "سلام سید خانم! منم هیربدم.",
+    "file": "002_scene_intro_hirbod.mp3",
+    "status": "success"
+  },
+  {
+    "index": 3,
+    "scene": "intro",
+    "character": "gordafarid",
+    "text": "ما خواهر و برادریم؛ از جنس افسانه‌ها و یادگار روزگار اسطوره‌ها.",
+    "file": "003_scene_intro_gordafarid.mp3",
+    "status": "success"
+  },
+  {
+    "index": 4,
+    "scene": "intro",
+    "character": "hirbod",
+    "text": "اومدیم تا داستانی رو برات روایت کنیم؛ داستانی از دل تاریخ، آمیخته با راز و افسانه.",
+    "file": "004_scene_intro_hirbod.mp3",
+    "status": "success"
+  },
+  {
+    "index": 5,
+    "scene": "intro",
+    "character": "gordafarid",
+    "text": "خب، سید خانم... اجازه می‌دی قصه‌مون رو شروع کنیم؟",
+    "file": "005_scene_intro_gordafarid.mp3",
+    "status": "success"
+  },
+  {
+    "index": 6,
+    "scene": "intro",
+    "character": "gordafarid",
+    "text": "اگه آماده‌ای، کلید اینتر رو بزن... تا دروازه‌ی افسانه به روت باز بشه.",
+    "file": "006_scene_intro_gordafarid.mp3",
+    "status": "success"
+  }
+]

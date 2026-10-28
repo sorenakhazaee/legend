@@ -1,0 +1,20 @@
+
+# فایل‌های محرمانه
+.env
+.env.*
+!.env.example
+
+# وابستگی‌های نصب‌شده
+node_modules/
+
+# فایل‌های پشتیبان
+*.bak
+*.backup
+*.story-backup
+
+# فایل‌های موقت Word
+~$*.docx
+
+.idea/
+inspect-models.html
+*.docx
